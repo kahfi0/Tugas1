@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Layout Profile</string>
+    <string name="constraint">Constraint Layout</string>
+    <string name="follow">Follow</string>
+</resources>
